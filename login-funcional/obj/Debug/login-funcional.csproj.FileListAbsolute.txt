@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\login-funcional\login-funcional\bin\Debug\login-funcional.exe.config
+C:\Users\Usuario\source\repos\login-funcional\login-funcional\bin\Debug\login-funcional.exe
+C:\Users\Usuario\source\repos\login-funcional\login-funcional\bin\Debug\login-funcional.pdb
+C:\Users\Usuario\source\repos\login-funcional\login-funcional\obj\Debug\login-funcional.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\login-funcional\login-funcional\obj\Debug\login_funcional.Form1.resources
+C:\Users\Usuario\source\repos\login-funcional\login-funcional\obj\Debug\login_funcional.Properties.Resources.resources
+C:\Users\Usuario\source\repos\login-funcional\login-funcional\obj\Debug\login-funcional.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\login-funcional\login-funcional\obj\Debug\login-funcional.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\login-funcional\login-funcional\obj\Debug\login-funcional.exe
+C:\Users\Usuario\source\repos\login-funcional\login-funcional\obj\Debug\login-funcional.pdb
+C:\Users\Usuario\source\repos\login-funcional\login-funcional\obj\Debug\login_funcional.Form2.resources

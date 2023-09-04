@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "login-funcional", "login-funcional\login-funcional.csproj", "{9A4B8913-EFD5-40DD-ADFD-4956633536AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A4B8913-EFD5-40DD-ADFD-4956633536AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A4B8913-EFD5-40DD-ADFD-4956633536AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A4B8913-EFD5-40DD-ADFD-4956633536AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A4B8913-EFD5-40DD-ADFD-4956633536AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D13F204-D3A3-4282-A74D-B8C44DF6FB6C}
+	EndGlobalSection
+EndGlobal
